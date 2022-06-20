@@ -1,0 +1,32 @@
+/*
+Theme Name: Conzex
+Theme URI: https://monowar.ml
+Author: Monowar
+Author URI: https://monowar.ml
+Description: Conzex is a powerful Easy to Use, Highly Customzable SEO /Digital Agency / Multi-Purpose WordPress Theme, built with latest Bootstrap.The theme comes with a lot of layouts for blog pages, services, landing pages and others. This theme is a highly suitable for companies that offer SEO services as well as other internet marketing related services. It has purpose oriented design, responsive layout and special features like 2 different landing pages, blog layouts, gallleries, services and pricing tables. Conzex can also be used for multi-purposes.
+Version: 2.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Conzex
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, sticky-post, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+#absulate_header {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.footer-widget {
+    margin-bottom: 30px;
+}
+.footer-widget h2 {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 18px;
+}
+.footer {
+    padding-top: 50px;
+}
