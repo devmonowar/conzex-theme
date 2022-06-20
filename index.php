@@ -10,7 +10,6 @@ get_header();
     get_template_part( 'template-parts/breadcumb' );
 
 ?>
-
     
         <!--==================================================================== 
                             Start Blog section
